@@ -14,7 +14,10 @@
 3. Зарегистрироваться в VR на траектории будущего
    - Азы работы в VR https://storage.vrconcept.net/s/YdweI26qelstyln 
    - Современные шлемы VR https://storage.vrconcept.net/s/YdweI26qelstyln 
-   - Обзор популярных движков для VR https://storage.vrconcept.net/s/Jc7trSrdM96X4l3 
+   - Обзор популярных движков для VR https://storage.vrconcept.net/s/Jc7trSrdM96X4l3
+
+4. **Индивидуальное задание**
+  - Установить драйвер на всех ноутбуках
 
 ### Пара №2. 10:05 - 10:50, 10:55 - 11:40
 1. Определение принципов экспертных систем
